@@ -2,6 +2,14 @@
 
 # A project to learn how to use React, done with Codecamp's Sweet Pumpkins React tutorial
 
+1. run create-react-app
+2. install yarn
+3. install dependencies via yarn
+  3.1 react-input-range
+  3.2 react-router-dom
+
+# React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
