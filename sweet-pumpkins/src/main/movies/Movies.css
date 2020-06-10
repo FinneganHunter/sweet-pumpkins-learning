@@ -1,0 +1,21 @@
+/* Movies.css*/
+
+.movies {
+	display: flex;
+	flex-wrap: wrap;
+	/* background: whitesmoke; */
+}
+
+.movie {
+	width: 240px;
+	height: 100px;
+	margin: 5px;
+	/* background: whitesmoke; */
+}
+
+.pagination {
+	display: flex;
+	justify-content: space-between;
+	padding: 40px 20px;
+	color: #555;	
+}
