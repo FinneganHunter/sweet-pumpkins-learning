@@ -1,0 +1,33 @@
+/* Header.css
+Playfair Display SC
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+
+*/
+@import '../index.css';
+
+.Header{
+  width: 100%;
+  display: flex;
+  justify-content: center;  
+  /* margin-bottom: 1em; */
+  background-color:  #5d3f6a;
+  
+}
+
+
+.Header a{
+  box-sizing: border-box;
+  padding: 1em;
+  color: whitesmoke;
+  font-family: "Playfair Display SC", serif;
+  font-size: 200%;        
+  text-decoration: none;
+  
+}
+
+a:hover {
+  color: #0a226e;
+  /* color | offset-x | offset-y | blur-radius */
+  text-shadow: #f7e7ce 1px 0 15px;
+  text-decoration: underline;
+}
