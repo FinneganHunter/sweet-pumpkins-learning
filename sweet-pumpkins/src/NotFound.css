@@ -1,0 +1,18 @@
+
+/* TODO: Style a "not found" page */
+.not-found {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;  
+    /* margin-bottom: 1em; */
+    line-height: 2em;
+    color:  #5d3f6a;
+    text-align: center;
+
+}
+
+.not-found h1, h2{
+    line-height: 1.5em;
+}
+

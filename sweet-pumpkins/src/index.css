@@ -1,0 +1,12 @@
+/*Roboto Slab
+font-family: Verdana, Geneva, sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Slab', 'Playfair Display SC';
+  box-sizing: border-box;
+}
