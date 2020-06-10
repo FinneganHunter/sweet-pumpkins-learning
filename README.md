@@ -1,6 +1,6 @@
 # sweet-pumpkins-learning
 
-# A project to learn how to use react, done with Codecamp's Sweet Pumpkins React Tutorial
+# A project to learn how to use React, done with Codecamp's Sweet Pumpkins React tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
